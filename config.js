@@ -26,8 +26,8 @@ module.exports = {
   ],
   author: {
     name: 'Byunseob',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/profile.png',
+    bio: '오픈소스를 좋아하는 front 도 조금 하는 backend 개발자',
     contacts: {
       email: '#',
       telegram: '#',
